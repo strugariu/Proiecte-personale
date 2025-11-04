@@ -1,0 +1,1 @@
+Un 555 produce un semnal dreptunghiular care este trecut printr-un filtru RC cu scopul obtinerii unui semnal cat de cat triunghiular, care mai departe va varia luminozitatea de pe o grupare de LED-uri.

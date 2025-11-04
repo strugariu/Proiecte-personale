@@ -1,0 +1,8 @@
+2 x amplificator audio TDA2030 https://www.optimusdigital.ro/ro/audio-amplificatoare-audio/739-modul-amplificator-audio-tda2030.html?search_query=amplificator+audio&results=90
+1 x step up 5V https://sigmanortec.ro/Modul-ridicator-tensiune-1-5V-la-5VDC-p130575332
+1 x step up 2-28V SX1308 https://sigmanortec.ro/Modul-ridicator-tensiune-SX1308-2-28V-2A-1-2MHz-p190987768
+1 x modul audio bluetooth MH-MH18 https://www.optimusdigital.ro/ro/wireless-bluetooth/8123-modul-pentru-transmisie-audio-fara-fir-ble-stereo-mh-m18.html?search_query=bluetooth+audi&results=29
+1 x incarcator USB C TP4056 https://www.optimusdigital.ro/ro/incarcatoare-de-baterii/12456-incarcator-tp4056-cu-mufa-tip-c-pt-baterie-lipo-1a-cu-protectie.html?search_query=incarcator&results=73
+2 x difuzoare 8 ohm 4 w ? (trebuie verificat modelul, nu mai gasesc link)
+2 x acumulatoare 18650 legate in paralel
+1 x doza bere 0.5l

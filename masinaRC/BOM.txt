@@ -1,0 +1,7 @@
+1 x arduino uno
+1 x shield cu driver de motoare l293d https://www.optimusdigital.ro/ro/electronica-de-putere-controllere-pwm-si-servo/987-shield-cu-driver-de-motoare-l293d.html?search_query=l293d&results=9
+1 x modul receptor telecomanda infrarosu https://www.optimusdigital.ro/ro/altele/755-modul-receptor-telecomanda-infrarou.html?search_query=infrarosu&results=100
+1 x telecomanda https://www.optimusdigital.ro/ro/altele/11-mini-telecomanda.html?search_query=telecomanda&results=51
+4 x motoare cu reductor si roata https://www.optimusdigital.ro/ro/motoare-altele/139-motor-cu-reductor-si-roata.html?search_query=motor&results=489
+1 x bat 9 V
+4 x baterii 1.5V 
