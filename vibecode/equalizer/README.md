@@ -1,7 +1,3 @@
-Here is the project file formatted in Markdown. You can save this as `README.md` or `Project_Plan.md` to use as context for our future sessions.
-
----
-
 # Project: NeuralAudio - AI-Powered Adaptive Equalizer
 
 ## 1. Project Overview
